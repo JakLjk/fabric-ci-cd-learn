@@ -1,0 +1,10 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/valueSet/1.0.0/schema.json",
+  "name": "altvs2",
+  "variableOverrides": [
+    {
+      "name": "test2",
+      "value": "test2alt2"
+    }
+  ]
+}
