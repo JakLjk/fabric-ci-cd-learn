@@ -1,0 +1,27 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {},
+  "name": "testDataflow",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "products_bikes csv": {
+      "queryId": "2b44ed55-cd15-408b-8957-cdf71efaa495",
+      "queryName": "products_bikes csv",
+      "loadEnabled": false
+    },
+    "products_bikes csv_DataDestination": {
+      "queryId": "7bc235e9-3e42-4a82-b823-5c66cda7f80d",
+      "queryName": "products_bikes csv_DataDestination",
+      "isHidden": true,
+      "loadEnabled": false
+    }
+  },
+  "connections": [
+    {
+      "path": "Lakehouse",
+      "kind": "Lakehouse",
+      "connectionId": "{\"ClusterId\":\"a65c84b0-dfd4-456d-9079-fdebc1a63f50\",\"DatasourceId\":\"7a7213c2-e580-4ccb-89d2-61ed0bcfcd1e\"}"
+    }
+  ]
+}
