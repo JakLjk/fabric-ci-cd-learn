@@ -1,11 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Notebook",
-    "displayName": "Notebook_1A"
+    "type": "ApacheAirflowJob",
+    "displayName": "apacheairflowjob1"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "0b9e4474-3d2b-0efc-3f4d-89fd73a145c3"
+    "logicalId": "c5882c7c-9065-bb02-47a4-8dbc962e518e"
   }
 }
